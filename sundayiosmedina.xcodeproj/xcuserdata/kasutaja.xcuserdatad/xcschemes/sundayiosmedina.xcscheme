@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0610"
+   LastUpgradeVersion = "0620"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B5B30301AB32989009A7E8A"
-               BuildableName = "iostaskmedina.app"
-               BlueprintName = "iostaskmedina"
-               ReferencedContainer = "container:iostaskmedina.xcodeproj">
+               BlueprintIdentifier = "3B08E8891AB58C190083903F"
+               BuildableName = "sundayiosmedina.app"
+               BlueprintName = "sundayiosmedina"
+               ReferencedContainer = "container:sundayiosmedina.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B5B30451AB3298A009A7E8A"
-               BuildableName = "iostaskmedinaTests.xctest"
-               BlueprintName = "iostaskmedinaTests"
-               ReferencedContainer = "container:iostaskmedina.xcodeproj">
+               BlueprintIdentifier = "3B08E89E1AB58C1A0083903F"
+               BuildableName = "sundayiosmedinaTests.xctest"
+               BlueprintName = "sundayiosmedinaTests"
+               ReferencedContainer = "container:sundayiosmedina.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B5B30451AB3298A009A7E8A"
-               BuildableName = "iostaskmedinaTests.xctest"
-               BlueprintName = "iostaskmedinaTests"
-               ReferencedContainer = "container:iostaskmedina.xcodeproj">
+               BlueprintIdentifier = "3B08E89E1AB58C1A0083903F"
+               BuildableName = "sundayiosmedinaTests.xctest"
+               BlueprintName = "sundayiosmedinaTests"
+               ReferencedContainer = "container:sundayiosmedina.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B5B30301AB32989009A7E8A"
-            BuildableName = "iostaskmedina.app"
-            BlueprintName = "iostaskmedina"
-            ReferencedContainer = "container:iostaskmedina.xcodeproj">
+            BlueprintIdentifier = "3B08E8891AB58C190083903F"
+            BuildableName = "sundayiosmedina.app"
+            BlueprintName = "sundayiosmedina"
+            ReferencedContainer = "container:sundayiosmedina.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -72,13 +72,14 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B5B30301AB32989009A7E8A"
-            BuildableName = "iostaskmedina.app"
-            BlueprintName = "iostaskmedina"
-            ReferencedContainer = "container:iostaskmedina.xcodeproj">
+            BlueprintIdentifier = "3B08E8891AB58C190083903F"
+            BuildableName = "sundayiosmedina.app"
+            BlueprintName = "sundayiosmedina"
+            ReferencedContainer = "container:sundayiosmedina.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -90,13 +91,14 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8B5B30301AB32989009A7E8A"
-            BuildableName = "iostaskmedina.app"
-            BlueprintName = "iostaskmedina"
-            ReferencedContainer = "container:iostaskmedina.xcodeproj">
+            BlueprintIdentifier = "3B08E8891AB58C190083903F"
+            BuildableName = "sundayiosmedina.app"
+            BlueprintName = "sundayiosmedina"
+            ReferencedContainer = "container:sundayiosmedina.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

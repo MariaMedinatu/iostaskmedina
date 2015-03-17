@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>iostaskmedina.xcscheme</key>
+		<key>sundayiosmedina.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8B5B30301AB32989009A7E8A</key>
+		<key>3B08E8891AB58C190083903F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8B5B30451AB3298A009A7E8A</key>
+		<key>3B08E89E1AB58C1A0083903F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

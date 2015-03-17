@@ -1,15 +1,15 @@
 //
-//  iostaskmedinaTests.swift
-//  iostaskmedinaTests
+//  sundayiosmedinaTests.swift
+//  sundayiosmedinaTests
 //
-//  Created by Developer on 13/03/15.
-//  Copyright (c) 2015 Developer. All rights reserved.
+//  Created by kasutaja on 15/03/15.
+//  Copyright (c) 2015 kasutaja. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class iostaskmedinaTests: XCTestCase {
+class sundayiosmedinaTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
